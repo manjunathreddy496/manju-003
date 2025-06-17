@@ -55,7 +55,7 @@ Data Management
 In-memory Storage: Documents stored on server (easily extensible to database)
 Room-based Architecture: Each document is a separate Socket.IO room
 State Synchronization: Consistent state across all connected clients
-Key Benefits
+# Key Benefits
 For Developers
 Pair Programming: Code together in real-time
 Code Reviews: Collaborative code examination
@@ -68,11 +68,5 @@ Brainstorming: Real-time idea sharing and development
 Knowledge Sharing: Instant collaboration without setup
 Technical Advantages
 Type Safety: Full TypeScript implementation
-Scalable Architecture: Modular, maintainable codebase
-Modern Stack: Latest web technologies and best practices
-Performance Optimized: Efficient real-time updates
-Cross-platform: Works on any device with a web browser
-Use Cases
-Educational: Programming classes, coding bootcamps, tutorials
-Professional: T
-
+#OUTPUT FOR THIS PROJECT
+![Image](https://github.com/user-attachments/assets/77442057-bd73-4c87-ae58-9f4d2cf0161b)
