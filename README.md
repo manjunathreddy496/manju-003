@@ -69,4 +69,4 @@ Knowledge Sharing: Instant collaboration without setup
 Technical Advantages
 Type Safety: Full TypeScript implementation
 #OUTPUT FOR THIS PROJECT
-![Image](https://github.com/user-attachments/assets/77442057-bd73-4c87-ae58-9f4d2cf0161b)
+
